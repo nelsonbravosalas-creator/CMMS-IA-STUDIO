@@ -23,7 +23,7 @@ export default defineConfig(({ mode }) => {
   };
 });
 
-//**** Codigo anterior 06-05-2026
+//**** Codigo anterior corroiendo el local 06-05-2026 NB
 // import tailwindcss from '@tailwindcss/vite';
 // import react from '@vitejs/plugin-react';
 // import path from 'path';
